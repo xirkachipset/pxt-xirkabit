@@ -277,7 +277,6 @@
       "SDA": "SDA",
       "SCL": "SCL"
     },
-    "onboardComponents": ["pixel"],
     "marginWhenBreadboarding": [
       0,
       0,
